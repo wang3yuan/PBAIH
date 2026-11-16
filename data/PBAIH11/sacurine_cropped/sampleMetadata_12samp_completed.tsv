@@ -1,0 +1,13 @@
+sample_name	class	sampleType	injectionOrder	batch	osmolality	sampling	age	bmi	gender
+QC1_014	QC	pool	185	ne1	NA	NA	NA	NA	NA
+QC1_008	QC	pool	105	ne1	NA	NA	NA	NA	NA
+QC1_002	QC	pool	27	ne1	NA	NA	NA	NA	NA
+HU_neg_192	sample	sample	165	ne1	1184	8	31	24.22	Male
+HU_neg_173	sample	sample	148	ne1	182	7	55	20.28	Female
+HU_neg_157	sample	sample	137	ne1	504	7	43	21.95	Female
+HU_neg_123	sample	sample	100	ne1	808	5	49	24.39	Male
+HU_neg_090	sample	sample	75	ne1	787	4	46	19.79	Male
+HU_neg_048	sample	sample	39	ne1	997	3	39	19.49	Female
+Blanc16	blk	blank	173	ne1	NA	NA	NA	NA	NA
+Blanc10	blk	blank	94	ne1	NA	NA	NA	NA	NA
+Blanc05	blk	blank	29	ne1	NA	NA	NA	NA	NA
