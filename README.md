@@ -14,6 +14,7 @@
 |---|---|---|
 | 實作一 | 從 mzML 原始檔到特徵表（pyopenms：特徵偵測、跨樣本對應、blank 過濾） | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang3yuan/PBAIH/blob/main/notebooks/PBAIH11A_raw_to_features.ipynb) |
 | 實作二 | 從特徵表到分析矩陣（QC 過濾、缺值、漂移校正、PQN、轉換與縮放、PCA 前後比較） | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang3yuan/PBAIH/blob/main/notebooks/PBAIH11B_features_to_matrix.ipynb) |
+| 作業 | 個人作業：前處理決策與敏感度分析（參數敏感度、流程比較、批判性解讀；最後附 GenAI 使用說明） | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang3yuan/PBAIH/blob/main/homework/PBAIH11_HW.ipynb) |
 
 **上課一開始請先執行 notebook 的第 0 節**（安裝套件、下載資料），趁它在跑的時候聽老師開場。每個 notebook 的第 0.1 節說明下載失敗時怎麼辦。
 
