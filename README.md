@@ -25,11 +25,11 @@
 | 實作一　參考解答 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang3yuan/PBAIH/blob/main/solutions/PBAIH11A_raw_to_features_solution.ipynb) |
 | 實作二　參考解答 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang3yuan/PBAIH/blob/main/solutions/PBAIH11B_features_to_matrix_solution.ipynb) |
 
-**上課一開始請先執行 notebook 的第 0 節**（安裝套件、下載資料），趁它在跑的時候聽老師開場。每個 notebook 的第 0.1 節說明下載失敗時怎麼辦。
+**上課一開始請先執行 notebook 的 Part 0**（安裝套件、下載資料），趁它在跑的時候聽老師開場。實作一的 Part 0.1 說明下載失敗時怎麼辦。
 
 ## 執行環境
 
-- Google Colab（建議）。第 0 節會安裝 `pyopenms==3.6.0`；其餘套件使用 Colab 內建版本：pandas 2.2.3、scipy 1.16.3、scikit-learn 1.6.1、statsmodels 0.15.0、matplotlib 3.10.0、seaborn 0.13.2。
+- Google Colab（建議）。Part 0 會安裝 `pyopenms==3.6.0`；其餘套件使用 Colab 內建版本：pandas 2.2.3、scipy 1.16.3、scikit-learn 1.6.1、statsmodels 0.15.0、matplotlib 3.10.0、seaborn 0.13.2。
 - 在 Python 3.12（macOS）上以相同版本驗證過；Colab（Linux）請以實際執行為準。
 
 ## 資料
