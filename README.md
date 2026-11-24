@@ -38,6 +38,15 @@
 
 **每一份 notebook 都要各自執行一次 Part 0**（Colab 的每份 notebook 是獨立的執行環境）。Part 0 會安裝 `matchms==1.0.0`、下載 [Releases `data-v2`](https://github.com/wang3yuan/PBAIH/releases/tag/data-v2) 的 `PBAIH12_data.zip`（約 10 MB）；安裝後如果要你重新啟動工作階段，照做後直接執行 Part 0-b。
 
+### 參考解答
+
+實作一、實作二的練習題都有參考解答，放在 [`solutions/`](solutions/)。**請先在上面的 notebook 自己試**，卡住了再對照解答。解答與練習版的差別只在練習題的空格（`____`）已填好。
+
+| 實作 | 開啟 |
+|---|---|
+| 實作一　參考解答 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang3yuan/PBAIH/blob/main/solutions/PBAIH12A_ms2_and_ms1_clues_solution.ipynb) |
+| 實作二　參考解答 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang3yuan/PBAIH/blob/main/solutions/PBAIH12B_library_search_false_hits_solution.ipynb) |
+
 ## 執行環境
 
 - Google Colab（建議）。PBAIH11 的 Part 0 會安裝 `pyopenms==3.6.0`，PBAIH12 的 Part 0 會安裝 `matchms==1.0.0`；其餘套件使用 Colab 內建版本：pandas 2.2.3、scipy 1.16.3、scikit-learn 1.6.1、statsmodels 0.15.0、matplotlib 3.10.0、seaborn 0.13.2。
