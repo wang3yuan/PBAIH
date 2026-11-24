@@ -35,6 +35,7 @@
 |---|---|---|
 | 實作一 | 認識 MS/MS 與 MS1 線索（一個 m/z 有幾個候選、理論同位素分布、手算 cosine、比較真實的譜） | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang3yuan/PBAIH/blob/main/notebooks/PBAIH12A_ms2_and_ms1_clues.ipynb) |
 | 實作二 | 譜庫比對與假命中（leave-one-contributor-out、門檻與匹配峰數、加權比較、失敗案例） | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang3yuan/PBAIH/blob/main/notebooks/PBAIH12B_library_search_false_hits.ipynb) |
+| 作業 | 個人作業：這個高分的命中可信嗎？（依學號抽 3 張未知譜，設門檻、判讀、對照答案；約 1 小時） | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wang3yuan/PBAIH/blob/main/homework/PBAIH12_HW.ipynb) |
 
 **每一份 notebook 都要各自執行一次 Part 0**（Colab 的每份 notebook 是獨立的執行環境）。Part 0 會安裝 `matchms==1.0.0`、下載 [Releases `data-v2`](https://github.com/wang3yuan/PBAIH/releases/tag/data-v2) 的 `PBAIH12_data.zip`（約 10 MB）；安裝後如果要你重新啟動工作階段，照做後直接執行 Part 0-b。
 
